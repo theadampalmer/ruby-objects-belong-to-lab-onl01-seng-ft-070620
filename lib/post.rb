@@ -7,4 +7,4 @@ class Post
  
 end
 
-post.author = 
+post.author.name = "Uncle Bob"
